@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover seamless, professional, and reliable car rental services tailored for your needs.",
+        "title": "Effortless Car Rentals at Your Fingertips"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover seamless, professional, and reliable car rental services tailored for your needs.",
+        "title": "Effortless Car Rentals at Your Fingertips"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover seamless, professional, and reliable car rental services tailored for your needs.",
+        "title": "Effortless Car Rentals at Your Fingertips"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover seamless, professional, and reliable car rental services tailored for your needs.",
+        "title": "Effortless Car Rentals at Your Fingertips"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover seamless, professional, and reliable car rental services tailored for your needs.",
+        "title": "Effortless Car Rentals at Your Fingertips"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover seamless, professional, and reliable car rental services tailored for your needs.",
+        "title": "Effortless Car Rentals at Your Fingertips"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover seamless, professional, and reliable car rental services tailored for your needs.",
+        "title": "Effortless Car Rentals at Your Fingertips"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover seamless, professional, and reliable car rental services tailored for your needs.",
+        "title": "Effortless Car Rentals at Your Fingertips"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Effortless Car Rentals at Your Fingertips",
+  "subtitle": "Discover seamless, professional, and reliable car rental services tailored for your needs."
+}
